@@ -1,7 +1,7 @@
 # Welcome to my codes world！🍻
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FlyingCetacean&show_icons=true&theme=tokyonight)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FlyingCetacean&show_icons=true&theme=onedark)
 <!--
 
 Here are some ideas to get you started:
